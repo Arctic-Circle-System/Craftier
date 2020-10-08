@@ -10,7 +10,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-public class craftierMain implements ModInitializer {
+public class CraftierMain implements ModInitializer {
 
     public static final Block SPRUCE_CRAFTING_TABLE = new CraftingTableBlock();
     public static final Block BIRCH_CRAFTING_TABLE = new CraftingTableBlock();
