@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "craftier:block/crimson_crafting_table_front",
+    "up": "craftier:block/crimson_crafting_table_top",
+    "down": "minecraft:block/crimson_planks",
+    "north": "craftier:block/crimson_crafting_table_front",
+    "south": "craftier:block/crimson_crafting_table_side",
+    "west": "craftier:block/crimson_crafting_table_front",
+    "east": "craftier:block/crimson_crafting_table_side"
+  }
+}

@@ -19,3 +19,7 @@ v0.2.0
 
 v0.2.1
 * Fixed rendering bug with Cobblestone Crafting Table
+
+v1.0.0
+* Replaced placeholder textures
+* Changed mod id to craftier

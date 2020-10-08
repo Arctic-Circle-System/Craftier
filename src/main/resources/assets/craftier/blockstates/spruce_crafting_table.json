@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "craftier:block/spruce_crafting_table"
+    }
+  }
+}
