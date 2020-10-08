@@ -19,6 +19,7 @@ public class MoreCraftingTablesMain implements ModInitializer {
     public static final Block DARK_OAK_CRAFTING_TABLE = new CraftingTableBlock();
     public static final Block CRIMSON_CRAFTING_TABLE = new CraftingTableBlock();
     public static final Block WARPED_CRAFTING_TABLE = new CraftingTableBlock();
+    public static final Block COBBLESTONE_CRAFTING_TABLE = new CraftingTableBlock();
 
     @Override
     public void onInitialize() {
@@ -30,6 +31,7 @@ public class MoreCraftingTablesMain implements ModInitializer {
         registerCraftingTable(DARK_OAK_CRAFTING_TABLE, "dark_oak_crafting_table", true);
         registerCraftingTable(CRIMSON_CRAFTING_TABLE, "crimson_crafting_table", false);
         registerCraftingTable(WARPED_CRAFTING_TABLE, "warped_crafting_table", false);
+        registerCraftingTable(COBBLESTONE_CRAFTING_TABLE, "cobblestone_crafting_table", false);
 
     }
 
